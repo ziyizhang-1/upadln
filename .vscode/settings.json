@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.check.command": "check",
+    "rust-analyzer.cargo.buildScripts.overrideCommand": null,
+    "rust-analyzer.check.overrideCommand": null,
+}
